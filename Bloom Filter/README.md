@@ -4,3 +4,5 @@ Creates two Bloom Filter with a list of words in a dictionary. One Bloom Filter 
 
 Compile and Run:
 python3 bloom_filter.py -d dictionary.txt -i input.txt -o output3.txt output5.txt
+
+Skill: Python, Bloom Filters, Hash
