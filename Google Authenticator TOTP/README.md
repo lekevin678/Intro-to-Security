@@ -9,3 +9,5 @@ Compile & Run:
   
 2.) Get Code
   python3 totp.py get
+
+Skills: Python, HMAC, Hash, One Time Password
