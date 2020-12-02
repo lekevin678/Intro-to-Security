@@ -7,3 +7,5 @@ To Compile:
     gcc dict_attack.c -o attack -lssl -lcrypto
 To Run:
     ./attack
+
+Skills: C, Encryption/Decryption, Encryption Modes 
